@@ -203,18 +203,19 @@ header section .content .price_order .price p{
 }
 
 header section .content .price_order a{
-    padding: 4px 20px;
+    padding: 5px 20px;
     background: #163020;
     color: #fff;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 16px;
     margin-left: 35px;
-    transition: .3s ease;    
+    border-radius: 20px;
+    transition: .5s ease;    
 }
 
 header section .price_order a:hover{
-    background: #49FF00;
-    color: #121213;   
+    background: #4E9525;
+    color: #fff;   
 }
 
 header section .cards{
@@ -243,7 +244,8 @@ header section .cards .card{
     /*border: 1px solid black;*/
     margin-right: 13px;
     background: #163020;
-    border-radius: 30px 10px 10px 10px;
+    transition: .5s ease;
+    border-radius: 30px 15px 15px 15px;
 }
 
 header section .cards .card:hover{

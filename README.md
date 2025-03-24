@@ -1,4 +1,4 @@
-# 🧬 Responsive Restaurant Menu Website | by UM-XAIR
+# 🧬 R4XN Food Menu
 <div align="center">
   <img src="https://github.com/um-xair/html-css-js-restaurant-menu-website/blob/main/img/main.jpg" alt="Restaurant Menu" />
 </div>  
